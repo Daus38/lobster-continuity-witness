@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "system": "LOBSTER",
+  "witness_type": "stage1_continuity",
+  "initialized": false,
+  "generation": 0,
+  "checked_at_utc": "1970-01-01T00:00:00Z",
+  "record_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "record_hmac_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "previous_witness_commit": null
+}
