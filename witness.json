@@ -1,11 +1,1 @@
-{
-  "schema_version": 1,
-  "system": "LOBSTER",
-  "witness_type": "stage1_continuity",
-  "initialized": false,
-  "generation": 0,
-  "checked_at_utc": "1970-01-01T00:00:00Z",
-  "record_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "record_hmac_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "previous_witness_commit": null
-}
+{"checked_at_utc":"2026-09-25T07:20:20.870003+00:00","generation":1,"initialized":true,"previous_witness_commit":"0a4cba22139d6b3afd62ad2b5614a568190ea00a","record_hmac_sha256":"ce51bb905e3d689727a1526dc26460482d9d4e8aa32053a2b908e6291929df96","record_sha256":"e75efc28534276ddfde207eb0c01f675091fc5cb567e00eb2a367adc3c151189","schema_version":1,"system":"LOBSTER","witness_type":"stage1_continuity"}
